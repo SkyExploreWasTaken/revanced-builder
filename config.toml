@@ -37,18 +37,19 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [Twitter]
 enabled = true
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
 build-mode = "apk"
 dpi = "120-640dpi"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
 [TikTok]
 enabled = true
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 
 [IconPackStudio]
@@ -57,6 +58,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-s
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.instagram.android/"
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage/"
