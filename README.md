@@ -4,7 +4,7 @@
 
 Extensive ReVanced builder  
 
-Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases).
+Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases) or the [Obtainium configuration file](https://github.com/SkyExploreWasTaken/revanced-builder/blob/main/obtainium-config.json).
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
