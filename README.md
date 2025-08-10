@@ -8,6 +8,7 @@ Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/relea
 
 You want to use Obtainium? 
 You can install it on [F-Droid](https://f-droid.org/fr/packages/dev.imranr.obtainium.fdroid/) or directly from [Obtainium website](https://obtainium.imranr.dev/).
+You can then go in the import section and click "Obtainium import". Finally, select the Obtainium configuration file above. You are now ready to go!
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
