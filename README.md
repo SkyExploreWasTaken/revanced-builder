@@ -1,6 +1,4 @@
-# ReVanced Magisk Module
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
-[![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
+# ReVanced Builder
 
 Extensive ReVanced builder  
 
@@ -27,18 +25,7 @@ Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube
      <li> support Magisk and KernelSU</li>
     </ul>
 </ul>
-Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is scheduled to build the modules and APKs everyday using GitHub Actions if there is a change in ReVanced patches. You may want to disable it.
 </details>
-
-## To include/exclude patches or patch other apps
-
- * Star the repo :eyes:
- * Use the repo as a [template](https://github.com/new?template_name=revanced-magisk-module&template_owner=j-hc)
- * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/)
- * Run the build [workflow](../../actions/workflows/build.yml)
- * Grab your modules and APKs from [releases](../../releases)
-
-also see here [`CONFIG.md`](./CONFIG.md)
 
 ## Building Locally
 ### On Termux
@@ -50,5 +37,4 @@ bash <(curl -sSf https://raw.githubusercontent.com/j-hc/revanced-magisk-module/m
 ```console
 $ git clone https://github.com/j-hc/revanced-magisk-module
 $ cd revanced-magisk-module
-$ ./build.sh
-```
+$ ./bui``
