@@ -6,6 +6,9 @@ Extensive ReVanced builder
 
 Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases) or the [Obtainium configuration file](https://github.com/SkyExploreWasTaken/revanced-builder/blob/main/obtainium-config.json).
 
+You want to use Obtainium? 
+You can install it on [F-Droid](https://f-droid.org/fr/packages/dev.imranr.obtainium.fdroid/) or directly from [Obtainium website](https://obtainium.imranr.dev/).
+
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
 <details><summary><big>Features</big></summary>
